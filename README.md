@@ -25,7 +25,7 @@ Minimal container with [Hugo](https://gohugo.io), Git & Bash installed. Leverage
 
 ```
 hugo:
-  image: vimagick/hugo
+  image: jermine/hugo
   command: >
     server --bind=0.0.0.0
            --port=80
