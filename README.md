@@ -1,6 +1,6 @@
 # Docker Alpine Hugo Git Bash
 
-### Docker Image
+### Docker Image 
 
 [![](https://images.microbadger.com/badges/image/jermine/hugo.svg)](http://microbadger.com/images/jermine/hugo "Get your own image badge on microbadger.com") [![](https://images.microbadger.com/badges/version/jermine/hugo.svg)](http://microbadger.com/images/jermine/hugo "Get your own version badge on microbadger.com") [![](https://images.microbadger.com/badges/commit/jermine/hugo.svg)](https://microbadger.com/images/jermine/hugo "Get your own commit badge on microbadger.com")
 
